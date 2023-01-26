@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Grace Shao.
 - 📚 I'm studying Data Science and Sociology at the University of Chicago, focusing on ML and NLP
-- 📫 Here's my [resume]([https://docs.google.com/document/d/1bnqEqDHHzAZVOhS7e-17B95omlesuky6/edit?usp=sharing&ouid=105541229420595986026&rtpof=true&sd=true](https://drive.google.com/file/d/10mr_K2II5Kuhs9ufPYCVgRbaZ3npx2jN/view?usp=sharing))
+- 📫 Here's my [resume](https://drive.google.com/file/d/10mr_K2II5Kuhs9ufPYCVgRbaZ3npx2jN/view?usp=sharing)
 - 🧵 For fun, I like non-coding forms of crafting: sewing, sketching, fluting, ceramics-ing
 
 <!---
